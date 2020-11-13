@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{L1EO:function(n,o,c){},QfWi:function(n,o,c){"use strict";c.r(o);c("L1EO"),c("JBxO"),c("FdtR");console.log("apiService.js");fetch("https://pixabay.com/api/?key=19017356-b8756222892cfba3d959da30c&q="+"dog").then((function(n){return n.json()}))}},[["QfWi",1,2]]]);
-//# sourceMappingURL=main.3cd622345318264b3618.js.map
