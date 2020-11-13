@@ -1,0 +1,23 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+}
+
+.gallery .item {
+  padding: 2px;
+}
+
+.gallery img {
+  width: 100%;
+}
+
+.material-icons.md-18 {
+  font-size: 18px;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+}
